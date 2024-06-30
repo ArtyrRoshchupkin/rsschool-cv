@@ -3,4 +3,21 @@
 ## 80298710006, ArtyrRoshchupkin (discord)
 *Молодой студент, стараюсь развиваться в сфере программирования*
 *Интересовался JS HTML CSS*
-
+```
+function josephusSurvivor(n,k){
+  let result = []
+  
+  for (let i = 1; i<=n; i++){
+      result.push(i);
+  }
+  
+  let elementIndex = 0;
+  
+  while(result.length > 1){
+      elementIndex = (elementIndex + k - 1)%result.length;
+      result.splice(elementIndex, 1);
+  }
+  
+  return result[0];
+}
+```
