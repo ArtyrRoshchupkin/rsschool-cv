@@ -1,8 +1,8 @@
 # Артур Рощупкин
 [Artur logo](https://sun9-62.userapi.com/impg/2uaMEzM9c3u5pvPIR1RUnouRamiC66n-0TXS3w/eutgSiKRrFM.jpg?size=1620x2160&quality=95&sign=08f68b2157954e5c1d5fe973a8d910b3&type=album)
 ## 80298710006, ArtyrRoshchupkin (discord)
-*Молодой студент, стараюсь развиваться в сфере программирования*
-*Интересовался JS HTML CSS*
+*Young student,*
+*interested in JS HTML CSS*
 ```
 function josephusSurvivor(n,k){
   let result = []
@@ -21,6 +21,6 @@ function josephusSurvivor(n,k){
   return result[0];
 }
 ```
-*Первый проект - CV*
-*Среднее образование, незаконченное высшее (программируемые мобильные системы)*
-*Английский язык люблю, активно не изучаю*
+*First pwoject - CV;*
+*Belarussian university of informatics and radioelectronics (graduating next year);*
+*Russian - native speaker; english - B1*
