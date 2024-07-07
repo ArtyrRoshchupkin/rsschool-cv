@@ -23,12 +23,11 @@ body {
 .logo {
     width: 150px;
     height: auto;
-    border-radius: 10%;
+    border-radius: 50%;
 }
 
 h1 {
     margin: 10px 0;
-    color: #0056b3;
 }
 
 p {
@@ -51,5 +50,4 @@ pre {
 
 code {
     font-family: 'Courier New', Courier, monospace;
-    color: #000000;
 }
