@@ -21,6 +21,6 @@ function josephusSurvivor(n,k){
   return result[0];
 }
 ```
-*First pwoject - CV;*
+*First project - CV;*
 *Belarussian university of informatics and radioelectronics (graduating next year);*
 *Russian - native speaker; english - B1*
